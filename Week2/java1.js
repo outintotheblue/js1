@@ -1,6 +1,6 @@
-console.log = ("Hola Mundo"); // Spanish
-console.log = ("Hello World"); // English
-console.log = ("Hej världen"); // Swedish
+console.log("Hola Mundo"); // Spanish
+console.log("Hello World"); // English
+console.log("Hej världen"); // Swedish
 
 console.log('I\'m awesome');
 
